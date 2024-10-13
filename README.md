@@ -3,18 +3,18 @@
 👩‍💻 I've studied in *Catholic University of Korea*
 
 - 🔭 I’m currently studying in *Catholic University of Korea*
-- 🌱 I’m currently learning *backend skills base on `Java`*
+- 🌱 I’m currently learning **backend** techniques base on `Java`
 - 📫 How to reach me: smdmim@gmail.com
 - ⚡ Fun fact: my birthday is leapday(02.29)
 
 ### 📚 My Projects
 <!-- about comatching -->
 <div style="display: flex; align-items: center;">
-    <a href="https://fc.comatching.site">
+    <a href="https://comatching-devs.web.app">
         <img align="left" height="96px" width="96px" alt="Warpnet" src="https://raw.githubusercontent.com/greensnapback0229/greensnapback0229/refs/heads/main/assets/comatching_icon.png"/>
     </a>
     <div style="margin-left: 10px;">
-        <strong><a href="https://fc.comatching.site">COMAtching</a> • 대학생 AI 이성 매칭 서비스
+        <strong><a href="https://comatching-devs.web.app">COMAtching</a> • 대학생 AI 이성 매칭 서비스
         </strong><br>
         Back-End Developer & Project Manager<br>
         Language & Techniques: 
@@ -25,9 +25,9 @@
         <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
         <br>
         Project Description: 
-        <a href="https://www.spacex.com/">Ver3</a>, 
-        <a href="https://www.spacex.com/">Ver2</a>, 
-        <a href="https://www.spacex.com/">Ver1</a>
+        <a href="https://github.com/COMAtching/COMAtching3_BE"><strong>Ver3</strong></a>, 
+        <a href="https://github.com/COMAtching/COMAtching_BE/">Ver2</a>, 
+        <a href="https://github.com/COMAtching/COMAtching1_BE">Ver1</a>
     </div>
 </div>
 </br>
