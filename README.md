@@ -1,10 +1,10 @@
-### About Me
+### 🎈 About Me
 
 ***👩🏻‍💻 A developer like a carpenter, building useful features like furniture. 🛏 🪑*** </br>
-***기능을 만드는 목수처럼, 편리함을 만드는 개발자***
+***👩🏻‍💻 가구을 만드는 목수처럼, 편리함을 만드는 개발자 🛏🪑***
 
-- 🔭 I’m currently studying in *Catholic University of Korea*
-- 🌱 I’m currently learning **backend** techniques base on `Java`
+- 🔭 I’m currently studying at **Catholic University of Korea**, majoring in *<u>Computer Science</u> and <u>Information and Communication</u> Engineering*.
+- 🌱 I’m currently learning **backend** skills based on `JAVA`
 - 📫 How to reach me: smdmim@gmail.com
 - ⚡ Fun fact: my birthday is leapday(02.29)
 
