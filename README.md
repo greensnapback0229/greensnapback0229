@@ -16,7 +16,7 @@
 
 <div style="display: flex; align-items: center;">
     <a href="https://fc.comatching.site">
-        <img align="left" height="100px" width="100px" alt="Warpnet" src="https://raw.githubusercontent.com/greensnapback0229/greensnapback0229/refs/heads/main/assets/comatching_icon.png"/>
+        <img align="left" height="96px" width="96px" alt="Warpnet" src="https://raw.githubusercontent.com/greensnapback0229/greensnapback0229/refs/heads/main/assets/comatching_icon.png"/>
     </a>
     <div style="margin-left: 10px;">
         <strong>Back-End Developer & Project Manager</strong><br>
