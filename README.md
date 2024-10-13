@@ -1,6 +1,6 @@
 ### About Me
 
-***👩🏻‍💻 A developer like a carpenter, building useful features like furniture. 🛏 🪑*** 
+***👩🏻‍💻 A developer like a carpenter, building useful features like furniture. 🛏 🪑*** </br>
 ***기능을 만드는 목수처럼, 편리함을 만드는 개발자***
 
 - 🔭 I’m currently studying in *Catholic University of Korea*
