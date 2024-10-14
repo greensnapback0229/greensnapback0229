@@ -1,7 +1,7 @@
 ### 🎈 About Me
 
-***👩🏻‍💻 A developer like a carpenter, building useful features like furniture. 🛏 🪑*** </br>
-***👩🏻‍💻 가구을 만드는 목수처럼, 편리함을 만드는 개발자 🛏🪑***
+***👨🏻‍💻 A developer like a carpenter, building useful features like furniture. 🛏 🪑*** </br>
+***👨🏻‍💻 가구을 만드는 목수처럼, 편리함을 만드는 개발자 🛏🪑***
 
 - 🔭 I’m currently studying at **Catholic University of Korea**, majoring in *<u>Computer Science</u> and <u>Information and Communication</u> Engineering*.
 - 🌱 I’m currently learning **backend** skills based on `JAVA`
@@ -16,7 +16,8 @@
     </a>
     <div style="margin-left: 10px;">
         <strong><a href="https://comatching-devs.web.app">COMAtching</a> • 대학생 AI 이성 매칭 서비스
-        </strong><br>
+        </strong>
+        <br>
         Role: Back-End Developer & Project Manager<br>
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> 
