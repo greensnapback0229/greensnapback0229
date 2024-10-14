@@ -17,15 +17,14 @@
     <div style="margin-left: 10px;">
         <strong><a href="https://comatching-devs.web.app">COMAtching</a> • 대학생 AI 이성 매칭 서비스
         </strong><br>
-        Back-End Developer & Project Manager<br>
-        Language & Techniques: 
+        Role: Back-End Developer & Project Manager<br>
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitMQ&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
         <br>
-        Project Description: 
+        About Project: 
         <a href="https://github.com/COMAtching/COMAtching3_BE"><strong>Ver3</strong></a>, 
         <a href="https://github.com/COMAtching/COMAtching_BE/">Ver2</a>, 
         <a href="https://github.com/COMAtching/COMAtching1_BE">Ver1</a>
@@ -41,14 +40,13 @@
     <div style="margin-left: 10px;">
         <strong><a href="https://fc.comatching.site">부천FC friends community</a> • 스포츠 응원성향 AI 친구 매칭 서비스
         </strong><br>
-        Back-End Developer & Project Manager<br>
-        Language & Techniques: 
+        Role: Back-End Developer & Project Manager<br>
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitMQ&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white"><br>
-        Project Description: 
+        About Project: 
         <a href="https://www.spacex.com/">Description</a> 
     </div>
 </div>
@@ -62,12 +60,12 @@
     <div style="margin-left: 10px;">
         <strong><a href="https://fc.comatching.site">MagicOfConch</a> • 일기 습관 형성 서비스
         </strong><br>
-        Back-End Developer<br>
+        Role: Back-End Developer<br>
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"> 
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white"><br>
-        Project Description: 
+        About Project: 
         <a href="https://www.spacex.com/">Description</a> 
     </div>
 </div>
