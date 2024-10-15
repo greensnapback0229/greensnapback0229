@@ -1,4 +1,4 @@
-### 🎈 About Me <a>(-> English)</a>
+### 🎈 About Me (-><a href="https://github.com/greensnapback0229/greensnapback0229/blob/main/README_ENGLISH.md"> English</a>)
 
 ***👨🏻‍💻 가구를 만드는 목수처럼, 편리함을 만드는 개발자 🛏🪑***
 
