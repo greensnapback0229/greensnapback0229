@@ -1,9 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <h3 > 🎈 About Me </h3>
-    <h3 style="margin-left: auto"> <a href="https://github.com/greensnapback0229">KOREAN</a> </h3>
-</div>
-
-
+### 🎈 About Me -> <a href="https://github.com/greensnapback0229">KOREAN</a>
 
 ***👨🏻‍💻 A developer like a carpenter, building useful features like furniture. 🛏🪑*** </br>
 
