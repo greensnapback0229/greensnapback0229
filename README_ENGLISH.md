@@ -1,4 +1,8 @@
-### 🎈 About Me <a>(KOREAN)</a>
+<div align="right">
+    <h3> <a href="https://github.com/greensnapback0229">KOREAN</a> </h3>
+</div>
+
+### 🎈 About Me
 
 ***👨🏻‍💻 A developer like a carpenter, building useful features like furniture. 🛏🪑*** </br>
 
