@@ -22,6 +22,7 @@
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitMQ&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
+        <img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=redis&logoColor=white">
         <br>
         About Project: 
         <a href="https://github.com/COMAtching/COMAtching3_BE"><strong>Ver3(latest)</strong></a>, 
@@ -44,7 +45,9 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitMQ&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
+        <img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=redis&logoColor=white">
+        <br>
         About Project: 
         <a href="https://github.com/COMAtching/COMAtching_FC_BE">Description</a> 
     </div>
