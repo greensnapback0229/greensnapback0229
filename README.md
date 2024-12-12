@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=redis&logoColor=white">
         <br>
         About Project: 
-        <a href="https://github.com/COMAtching/COMAtching3_BE"><strong>Ver3(latest)</strong></a>, 
+        <a href="https://github.com/COMAtching"><strong>Ver3(latest)</strong></a>, 
         <a href="https://github.com/COMAtching/COMAtching_BE/">Ver2</a>, 
         <a href="https://github.com/COMAtching/COMAtching1_BE">Ver1</a>
     </div>
