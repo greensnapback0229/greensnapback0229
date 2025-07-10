@@ -56,7 +56,7 @@
 
 <!-- about magic of conch -->
 <div style="display: flex; align-items: center;">
-    <a href="https://apps.apple.com/kr/app/%EC%86%8C%EB%9D%BC%EC%9D%98-%EB%A7%88%EB%B2%95/id6473936311">
+    <a href="https://notion.magicofconch.site">
         <img align="left" height="96px" width="96px" alt="Warpnet" src="https://raw.githubusercontent.com/greensnapback0229/greensnapback0229/refs/heads/main/assets/magic_of_conch_icon.png"/>
     </a>
     <div style="margin-left: 10px;">
