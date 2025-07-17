@@ -13,7 +13,7 @@
         <img align="left" height="96px" width="96px" alt="Warpnet" src="https://raw.githubusercontent.com/greensnapback0229/greensnapback0229/refs/heads/main/assets/comatching_icon.png"/>
     </a>
     <div style="margin-left: 10px;">
-        <strong><a href="https://comatching-devs.web.app">COMAtching</a> • 대학생 AI 이성 매칭 서비스
+        <strong><a href="https://comatching.site">COMAtching</a> • 대학생 AI 이성 매칭 서비스
         </strong>
         <br>
         Role: Back-End Developer & Project Manager<br>
