@@ -68,6 +68,6 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white"><br>
         About Project: 
-        <a href="https://notion.magicofconch.site">Description</a> 
+        <a href="https://github.com/TeamMagicOfConch/sora.git">Description</a> 
     </div>
 </div>
