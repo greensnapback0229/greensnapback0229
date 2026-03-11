@@ -6,6 +6,8 @@
 - 🌱 `JAVA` 기반의 백엔드 기술을 **익히**고 **사용**하는 것을 즐깁니다.
 - 📫  smdmim@gmail.com
 
+
+
 ### 📚 My Projects
 <!-- about comatching -->
 <div style="display: flex; align-items: center;">
@@ -25,9 +27,7 @@
         <img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=redis&logoColor=white">
         <br>
         About Project: 
-        <a href="https://github.com/COMAtching"><strong>Ver3(latest)</strong></a>, 
-        <a href="https://github.com/COMAtching/COMAtching_BE/">Ver2</a>, 
-        <a href="https://github.com/COMAtching/COMAtching1_BE">Ver1</a>
+        <a href="https://github.com/COMAtching/COMAtching3_BE"><strong>github</strong></a>
     </div>
 </div>
 </br>
@@ -49,14 +49,14 @@
         <img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=redis&logoColor=white">
         <br>
         About Project: 
-        <a href="https://github.com/COMAtching/COMAtching_FC_BE">Description</a> 
+        <a href="https://github.com/COMAtching/COMAtching_FC_BE">github</a> 
     </div>
 </div>
 </br>
 
 <!-- about magic of conch -->
 <div style="display: flex; align-items: center;">
-    <a href="https://notion.magicofconch.site">
+    <a href="https://apps.apple.com/kr/app/%EC%86%8C%EB%9D%BC%EC%9D%98-%EB%A7%88%EB%B2%95/id6473936311">
         <img align="left" height="96px" width="96px" alt="Warpnet" src="https://raw.githubusercontent.com/greensnapback0229/greensnapback0229/refs/heads/main/assets/magic_of_conch_icon.png"/>
     </a>
     <div style="margin-left: 10px;">
@@ -68,6 +68,6 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white"><br>
         About Project: 
-        <a href="https://github.com/TeamMagicOfConch/sora.git">Description</a> 
+        <a href="https://github.com/TeamMagicOfConch/sora.git">github</a> 
     </div>
 </div>
