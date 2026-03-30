@@ -2,6 +2,14 @@
 - 🌱 `JAVA` 기반의 백엔드 기술을 **익히**고 **사용**하는 것을 즐깁니다.
 - 📫  smdmim@gmail.com
 
+### 🛠 Skill Stack
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitMQ&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=redis&logoColor=white">
 
 ### 📚 My Projects
 <!-- about comatching -->
@@ -14,14 +22,7 @@
         </strong>
         <br>
         Role: Back-End Developer & Project Manager<br>
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> 
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitMQ&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
-        <img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=redis&logoColor=white">
-        <br>
-        About Project: 
+        About Project:
         <a href="https://github.com/COMAtching/COMAtching3_BE"><strong>github</strong></a>
     </div>
 </div>
@@ -33,15 +34,9 @@
         <img align="left" height="96px" width="96px" alt="PlanIT" src="https://github.com/greensnapback0229/greensnapback0229/blob/main/assets/plan-it.png?raw=true"/>
     </a>
     <div style="margin-left: 10px;">
-        <strong><a href="https://github.com/PlanIT-3/PLANIT_BE">PlanIT</a> • MZ세대를 위한 심리적 회계 기반 맞춤형 금융 관리 서비스
+        <strong><a href="https://planit-murex.vercel.app/">PlanIT</a> • MZ세대를 위한 심리적 회계 기반 맞춤형 금융 관리 서비스
         </strong><br>
         Role: Back-End Developer<br>
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitMQ&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
-        <br>
         About Project:
         <a href="https://github.com/PlanIT-3/PLANIT_BE"><strong>github</strong></a>
     </div>
@@ -57,11 +52,7 @@
         <strong><a href="https://notion.magicofconch.site">MagicOfConch</a> • 일기 습관 형성 서비스
         </strong><br>
         Role: Back-End Developer<br>
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"> 
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white"><br>
-        About Project: 
-        <a href="https://github.com/TeamMagicOfConch/sora.git">github</a> 
+        About Project:
+        <a href="https://github.com/TeamMagicOfConch/sora.git"><strong>github</strong></a> 
     </div>
 </div>
