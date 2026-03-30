@@ -20,15 +20,16 @@
         <img align="left" height="96px" width="96px" alt="Warpnet" src="https://raw.githubusercontent.com/greensnapback0229/greensnapback0229/refs/heads/main/assets/comatching_icon.png"/>
     </a>
     <div style="margin-left: 10px;">
-        <strong><a href="https://comatching.site">COMAtching</a> • 대학생 AI 이성 매칭 서비스
-        </strong>
+        <p>
+        <strong><a href="https://comatching.site">COMAtching</a> • 대학생 AI 이성 매칭 서비스</strong>
         <br>
         Role: Back-End Developer & Project Manager<br>
         About Project:
         <a href="https://github.com/COMAtching/COMAtching3_BE"><strong>github</strong></a>
+        </p>
     </div>
 </div>
-</br>
+<br>
 
 <!-- about PlanIT -->
 <div style="display: flex; align-items: center;">
