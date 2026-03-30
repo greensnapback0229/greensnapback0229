@@ -44,7 +44,7 @@ About Project: <a href="https://github.com/PlanIT-3/PLANIT_BE"><strong>github</s
 
 **<a href="https://notion.magicofconch.site">MagicOfConch</a> • 일기 습관 형성 서비스**<br>
 Role: Back-End Developer<br>
-About Project: <a href="https://github.com/TeamMagicOfConch/sora.git"><strong>github</strong></a><br>
+About Project: <a href="https://github.com/TeamMagicOfConch/sora.git"><strong>github</strong></a>
 <details> 
     <a href="https://greensnapback0229.github.io/posts/OpenAI-%EC%97%B0%EB%8F%99-%EB%B9%84%EB%8F%99%EA%B8%B0-AI-%ED%86%A0%ED%81%B0-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EA%B0%9C%EC%84%A0/"> LLM token streaming 성능 개선기 </a>
 </details>
