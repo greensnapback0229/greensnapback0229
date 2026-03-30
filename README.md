@@ -22,7 +22,7 @@
 
 **<a href="https://comatching.site">COMAtching</a> • 대학생 AI 이성 매칭 서비스**<br>
 Role: Back-End Developer & Project Manager<br>
-About Project: <a href="https://github.com/COMAtching/COMAtching3_BE"><strong>github</strong></a><br>
+About Project: <a href="https://github.com/COMAtching/COMAtching3_BE"><strong>github</strong></a> **|** 교내 학술제 우수상(2위) **|**  누적 5,000 유저 1만건 이상 매칭<br>
 Blog: <a href="https://greensnapback0229.github.io/posts/Redis%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EC%B6%A9%EC%A0%84-%EB%A9%B1%EB%93%B1%EC%84%B1-%EB%B3%B4%EC%9E%A5/"> 포인트 충전 멱등성 문제 해결 </a>
 <br clear="left">
 
