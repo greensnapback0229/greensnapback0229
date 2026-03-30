@@ -14,48 +14,36 @@
 </p>
 
 ### 📚 My Projects
+
 <!-- about comatching -->
-<div style="display: flex; align-items: center;">
-    <a href="https://comatching.site">
-        <img align="left" height="96px" width="96px" alt="Warpnet" src="https://raw.githubusercontent.com/greensnapback0229/greensnapback0229/refs/heads/main/assets/comatching_icon.png"/>
-    </a>
-    <div style="margin-left: 10px;">
-        <p>
-        <strong><a href="https://comatching.site">COMAtching</a> • 대학생 AI 이성 매칭 서비스</strong>
-        <br>
-        Role: Back-End Developer & Project Manager<br>
-        About Project:
-        <a href="https://github.com/COMAtching/COMAtching3_BE"><strong>github</strong></a>
-        </p>
-    </div>
-</div>
-<br>
+<a href="https://comatching.site">
+    <img align="left" height="96px" width="96px" alt="COMAtching" src="https://raw.githubusercontent.com/greensnapback0229/greensnapback0229/refs/heads/main/assets/comatching_icon.png"/>
+</a>
+
+**<a href="https://comatching.site">COMAtching</a> • 대학생 AI 이성 매칭 서비스**<br>
+Role: Back-End Developer & Project Manager<br>
+About Project: <a href="https://github.com/COMAtching/COMAtching3_BE"><strong>github</strong></a>
+
+<br clear="left">
 
 <!-- about PlanIT -->
-<div style="display: flex; align-items: center;">
-    <a href="https://github.com/PlanIT-3/PLANIT_BE">
-        <img align="left" height="96px" width="96px" alt="PlanIT" src="https://github.com/greensnapback0229/greensnapback0229/blob/main/assets/plan-it.png?raw=true"/>
-    </a>
-    <div style="margin-left: 10px;">
-        <strong><a href="https://planit-murex.vercel.app/">PlanIT</a> • MZ세대를 위한 심리적 회계 기반 맞춤형 금융 관리 서비스
-        </strong><br>
-        Role: Back-End Developer<br>
-        About Project:
-        <a href="https://github.com/PlanIT-3/PLANIT_BE"><strong>github</strong></a>
-    </div>
-</div>
-</br>
+<a href="https://github.com/PlanIT-3/PLANIT_BE">
+    <img align="left" height="96px" width="96px" alt="PlanIT" src="https://github.com/greensnapback0229/greensnapback0229/blob/main/assets/plan-it.png?raw=true"/>
+</a>
+
+**<a href="https://planit-murex.vercel.app/">PlanIT</a> • MZ세대를 위한 심리적 회계 기반 맞춤형 금융 관리 서비스**<br>
+Role: Back-End Developer<br>
+About Project: <a href="https://github.com/PlanIT-3/PLANIT_BE"><strong>github</strong></a>
+
+<br clear="left">
 
 <!-- about magic of conch -->
-<div style="display: flex; align-items: center;">
-    <a href="https://apps.apple.com/kr/app/%EC%86%8C%EB%9D%BC%EC%9D%98-%EB%A7%88%EB%B2%95/id6473936311">
-        <img align="left" height="96px" width="96px" alt="Warpnet" src="https://raw.githubusercontent.com/greensnapback0229/greensnapback0229/refs/heads/main/assets/magic_of_conch_icon.png"/>
-    </a>
-    <div style="margin-left: 10px;">
-        <strong><a href="https://notion.magicofconch.site">MagicOfConch</a> • 일기 습관 형성 서비스
-        </strong><br>
-        Role: Back-End Developer<br>
-        About Project:
-        <a href="https://github.com/TeamMagicOfConch/sora.git"><strong>github</strong></a> 
-    </div>
-</div>
+<a href="https://apps.apple.com/kr/app/%EC%86%8C%EB%9D%BC%EC%9D%98-%EB%A7%88%EB%B2%95/id6473936311">
+    <img align="left" height="96px" width="96px" alt="MagicOfConch" src="https://raw.githubusercontent.com/greensnapback0229/greensnapback0229/refs/heads/main/assets/magic_of_conch_icon.png"/>
+</a>
+
+**<a href="https://notion.magicofconch.site">MagicOfConch</a> • 일기 습관 형성 서비스**<br>
+Role: Back-End Developer<br>
+About Project: <a href="https://github.com/TeamMagicOfConch/sora.git"><strong>github</strong></a>
+
+<br clear="left">
