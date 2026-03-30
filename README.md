@@ -66,6 +66,7 @@ Blog: <a href="https://greensnapback0229.github.io/posts/%EB%A6%AC%EB%B0%B8%EB%9
 ### 🪪 Certificates
 - 정보처리기사
 - SQLD
+- Opic IM3 (Engilish)
 - 리눅스 마스터 2급
 - 네트워크 관리사 2급
 
