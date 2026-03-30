@@ -1,4 +1,4 @@
-- 🔭 저는 <u>컴퓨터공학</u> & <u>정보통신공학</u>을 전공하고 있습니다.
+- 🔭 저는 <u>컴퓨터공학</u> & <u>정보통신전자공학</u>을 전공하고 있습니다.
 - 🌱 `JAVA` 기반의 백엔드 기술을 **익히**고 **사용**하는 것을 즐깁니다.
 - 📫  smdmim@gmail.com
 
@@ -49,9 +49,7 @@ Blog: <a href="https://greensnapback0229.github.io/posts/%EB%A6%AC%EB%B0%B8%EB%9
 <br clear="left">
 
 
-
-
-### 🏆 My trophies
+### 🏆 My Trophies
 - **🥇 KB IT’s your life(1위) 최우수 금융 프로젝트**
 - 🥇 [디스콰이엇 트랜딩앱 1위](https://disquiet.io/product/%EC%86%8C%EB%9D%BC%EC%9D%98-%EB%A7%88%EB%B2%95)
 - **🥈 교내 정보통신 학술대회 우수상(2위)**
@@ -60,8 +58,8 @@ Blog: <a href="https://greensnapback0229.github.io/posts/%EB%A6%AC%EB%B0%B8%EB%9
 - **🏅 KB It’s your life 해커톤 장려상**
 - **🏅** [오픈소스 개발자 대회 우수작](https://badge.omnione.net/host/share/MDJjNmE5N2UtMGUzNS00MDlhLWE3ZTYtMzIxZmJiMjg2Y2Yz)
 
-### 🧑‍🎓 Educations
- - Catholic university of Korea ( ~ 2025.02)
+### 🧑‍🎓 Education
+ - Catholic University of Korea ( ~ 2025.02)
  - KB IT's your life (2025.03 ~ 2025.08)
  - SSAFY 15th(삼성 청년 AI SW 아카데미) (2026.01 ~ ing)
 
