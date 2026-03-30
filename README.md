@@ -51,6 +51,7 @@ Blog: <a href="https://greensnapback0229.github.io/posts/OpenAI-%EC%97%B0%EB%8F%
 
 
 ### My trophies
+---
 - **🥇 KB IT’s your life(1위) 최우수 금융 프로젝트**
 
 - **🥇 디스콰이엇 트랜딩앱 1위**
@@ -66,16 +67,19 @@ Blog: <a href="https://greensnapback0229.github.io/posts/OpenAI-%EC%97%B0%EB%8F%
 - **🏅** 오픈소스 개발자 대회 본선 진출
 
 ### Educations
+---
  - Catholic university of Korea ( ~ 2025.02)
  - KB IT's your life (2025.03 ~ 2025.08)
  - SSAFY 15th(삼성 청년 AI SW 아카데미) (2026.01 ~ ing)
 
 ### Certificates
+---
 - 정보처리기사
 - SQLD
 - 리눅스 마스터 2급
 - 네트워크 관리사 2급
 
 ### studies
+---
  - 🧑‍💻 [SSAFY_BE_DEEPDIVE_STUDY](https://github.com/SSAFY-CS-STUDY-15th/SeoSeungJun) (2025-02 ~ ing)
  - 🧑‍💻 [JACOS 알고리즘 스터디](https://github.com/KB-JACOS/SeoSeungjun) (2025.04 ~ ing) 
