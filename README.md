@@ -35,7 +35,6 @@ Blog: <a href="https://greensnapback0229.github.io/posts/Redis%EB%A5%BC-%ED%99%9
 Role: Back-End Developer<br>
 About Project: <a href="https://github.com/PlanIT-3/PLANIT_BE"><strong>github</strong></a> | KB IT's your life 최우수(1위) 금융 프로젝트<br>
 Blog: <a href="https://greensnapback0229.github.io/posts/%EB%A6%AC%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EB%B0%B0%EC%B9%98-%EC%B5%9C%EC%A0%81%ED%99%94/"> 리밸런싱 배치 최적화 </a>
-
 <br clear="left">
 
 <!-- about magic of conch -->
@@ -49,3 +48,34 @@ About Project: <a href="https://github.com/TeamMagicOfConch/sora.git"><strong>gi
 Blog: <a href="https://greensnapback0229.github.io/posts/OpenAI-%EC%97%B0%EB%8F%99-%EB%B9%84%EB%8F%99%EA%B8%B0-AI-%ED%86%A0%ED%81%B0-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EA%B0%9C%EC%84%A0/">LLM token streaming 성능 개선기</a>
 
 <br clear="left">
+
+
+### My trophies
+- **🥇 KB IT’s your life(1위) 최우수 금융 프로젝트**
+
+- **🥇 디스콰이엇 트랜딩앱 1위**
+
+- **🥈 교내 정보통신 학술대회 우수상(2위)**
+
+- **🥇 Cisco Netriders 국내 1등 (국제 대회 참가)**
+
+- **🏅 관광데이터 활용 공모전 장려상**
+
+- **🏅 KB It’s your life 해커톤 장려상**
+
+- **🏅** 오픈소스 개발자 대회 본선 진출
+
+### Educations
+ - Catholic university of Korea ( ~ 2025.02)
+ - KB IT's your life (2025.03 ~ 2025.08)
+ - SSAFY 15th(삼성 청년 AI SW 아카데미) (2026.01 ~ ing)
+
+### Certificates
+- 정보처리기사
+- SQLD
+- 리눅스 마스터 2급
+- 네트워크 관리사 2급
+
+### studies
+ - 🧑‍💻 [SSAFY_BE_DEEPDIVE_STUDY](https://github.com/SSAFY-CS-STUDY-15th/SeoSeungJun) (2025-02 ~ ing)
+ - 🧑‍💻 [JACOS 알고리즘 스터디](https://github.com/KB-JACOS/SeoSeungjun) (2025.04 ~ ing) 
