@@ -22,8 +22,8 @@
 
 **<a href="https://comatching.site">COMAtching</a> • 대학생 AI 이성 매칭 서비스**<br>
 Role: Back-End Developer & Project Manager<br>
-About Project: <a href="https://github.com/COMAtching/COMAtching3_BE"><strong>github</strong></a>
-
+About Project: <a href="https://github.com/COMAtching/COMAtching3_BE"><strong>github</strong></a><br>
+Blog: <a href="https://greensnapback0229.github.io/posts/Redis%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EC%B6%A9%EC%A0%84-%EB%A9%B1%EB%93%B1%EC%84%B1-%EB%B3%B4%EC%9E%A5/"> 포인트 충전 멱등성 문제 해결 </a>
 <br clear="left">
 
 <!-- about PlanIT -->
@@ -43,7 +43,7 @@ Blog: <a href="https://greensnapback0229.github.io/posts/%EB%A6%AC%EB%B0%B8%EB%9
     <img align="left" height="96px" width="96px" alt="MagicOfConch" src="https://raw.githubusercontent.com/greensnapback0229/greensnapback0229/refs/heads/main/assets/magic_of_conch_icon.png"/>
 </a>
 
-**<a href="https://notion.magicofconch.site">MagicOfConch</a> • 일기 습관 형성 서비스**<br>
+**<a href="https://notion.magicofconch.site">MagicOfConch</a> • AI 회고 습관 형성 서비스**<br>
 Role: Back-End Developer<br>
 About Project: <a href="https://github.com/TeamMagicOfConch/sora.git"><strong>github</strong></a> **|** 디스콰이엇 트랜딩앱 1위<br>
 Blog: <a href="https://greensnapback0229.github.io/posts/OpenAI-%EC%97%B0%EB%8F%99-%EB%B9%84%EB%8F%99%EA%B8%B0-AI-%ED%86%A0%ED%81%B0-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EA%B0%9C%EC%84%A0/">LLM token streaming 성능 개선기</a>
