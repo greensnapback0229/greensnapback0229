@@ -54,7 +54,7 @@ Blog: <a href="https://greensnapback0229.github.io/posts/%EB%A6%AC%EB%B0%B8%EB%9
 My trophies
 - **🥇 KB IT’s your life(1위) 최우수 금융 프로젝트**
 
-- **🥇 디스콰이엇 트랜딩앱 1위**
+- 🥇 [디스콰이엇 트랜딩앱 1위](https://disquiet.io/product/%EC%86%8C%EB%9D%BC%EC%9D%98-%EB%A7%88%EB%B2%95)
 
 - **🥈 교내 정보통신 학술대회 우수상(2위)**
 
@@ -64,7 +64,7 @@ My trophies
 
 - **🏅 KB It’s your life 해커톤 장려상**
 
-- **🏅** [오픈소스 개발자 대회 우수작]()
+- **🏅** [오픈소스 개발자 대회 우수작](https://badge.omnione.net/host/share/MDJjNmE5N2UtMGUzNS00MDlhLWE3ZTYtMzIxZmJiMjg2Y2Yz)
 
 ### Educations
  - Catholic university of Korea ( ~ 2025.02)
