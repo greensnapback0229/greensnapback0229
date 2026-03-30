@@ -34,7 +34,7 @@ Blog: <a href="https://greensnapback0229.github.io/posts/OpenAI-%EC%97%B0%EB%8F%
 **<a href="https://comatching.site">COMAtching</a> • 대학생 AI 이성 매칭 서비스**<br>
 Role: Back-End Developer & Project Manager<br>
 About Project: <a href="https://github.com/COMAtching/COMAtching3_BE"><strong>github</strong></a> **|** 교내 학술제 우수상(2위) **|**  누적 5,000 유저 1만건 이상 매칭<br>
-Blog: <a href="https://greensnapback0229.github.io/posts/Redis%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EC%B6%A9%EC%A0%84-%EB%A9%B1%EB%93%B1%EC%84%B1-%EB%B3%B4%EC%9E%A5/"> 포인트 충전 멱등성 문제 해결 </a>
+Blog: <a href="https://greensnapback0229.github.io/posts/Redis%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EC%B6%A9%EC%A0%84-%EB%A9%B1%EB%93%B1%EC%84%B1-%EB%B3%B4%EC%9E%A5/"> 포인트 충전 멱등성 문제 해결 </a> **|** [AI 응답 동시성 문제 해결](https://greensnapback0229.github.io/posts/COMAtching-%EB%A7%A4%EC%B9%AD-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EA%B8%B0-1/)
 <br clear="left">
 
 <!-- about PlanIT -->
@@ -74,3 +74,9 @@ Blog: <a href="https://greensnapback0229.github.io/posts/%EB%A6%AC%EB%B0%B8%EB%9
 ### 📚 Studies
  - 🧑‍💻 [SSAFY_BE_DEEPDIVE_STUDY](https://github.com/SSAFY-CS-STUDY-15th/SeoSeungJun) (2025-02 ~ ing)
  - 🧑‍💻 [JACOS 알고리즘 스터디](https://github.com/KB-JACOS/SeoSeungjun) (2025.04 ~ ing) 
+
+### 🤖 How I use AI
+ - https://github.com/greensnapback0229/ai-native-workflow
+
+### My Side Projects
+ - [Review-Mate](https://srv.pr-review.cloud/login) : AI pr review 서비스 ([github](https://github.com/greensnapback0229/review-mate))
