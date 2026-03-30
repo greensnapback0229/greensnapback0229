@@ -33,7 +33,8 @@ About Project: <a href="https://github.com/COMAtching/COMAtching3_BE"><strong>gi
 
 **<a href="https://planit-murex.vercel.app/">PlanIT</a> • MZ세대를 위한 심리적 회계 기반 맞춤형 금융 관리 서비스**<br>
 Role: Back-End Developer<br>
-About Project: <a href="https://github.com/PlanIT-3/PLANIT_BE"><strong>github</strong></a>
+About Project: <a href="https://github.com/PlanIT-3/PLANIT_BE"><strong>github</strong></a> | KB IT's your life 최우수(1위) 금융 프로젝트<br>
+Blog: <a href="https://greensnapback0229.github.io/posts/%EB%A6%AC%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EB%B0%B0%EC%B9%98-%EC%B5%9C%EC%A0%81%ED%99%94/"> 리밸런싱 배치 최적화 </a>
 
 <br clear="left">
 
@@ -44,7 +45,7 @@ About Project: <a href="https://github.com/PlanIT-3/PLANIT_BE"><strong>github</s
 
 **<a href="https://notion.magicofconch.site">MagicOfConch</a> • 일기 습관 형성 서비스**<br>
 Role: Back-End Developer<br>
-About Project: <a href="https://github.com/TeamMagicOfConch/sora.git"><strong>github</strong></a><br>
+About Project: <a href="https://github.com/TeamMagicOfConch/sora.git"><strong>github</strong></a> **|** 디스콰이엇 트랜딩앱 1위<br>
 Blog: <a href="https://greensnapback0229.github.io/posts/OpenAI-%EC%97%B0%EB%8F%99-%EB%B9%84%EB%8F%99%EA%B8%B0-AI-%ED%86%A0%ED%81%B0-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EA%B0%9C%EC%84%A0/">LLM token streaming 성능 개선기</a>
 
 <br clear="left">
