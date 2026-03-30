@@ -3,6 +3,7 @@
 - 📫  smdmim@gmail.com
 
 ### 🛠 Skill Stack
+<p>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
@@ -10,6 +11,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=redis&logoColor=white">
+</p>
 
 ### 📚 My Projects
 <!-- about comatching -->
