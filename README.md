@@ -60,7 +60,7 @@ Blog: <a href="https://greensnapback0229.github.io/posts/%EB%A6%AC%EB%B0%B8%EB%9
 
 
 ### 🧑‍🎓 Education
- - Catholic University of Korea ( ~ 2025.02)
+ - Catholic University of Korea ( ~ 2026.02)
  - KB IT's your life (2025.03 ~ 2025.08)
  - SSAFY 15th(삼성 청년 AI SW 아카데미) (2026.01 ~ ing)
 
