@@ -23,7 +23,7 @@
 **<a href="https://apps.apple.com/us/app/%EC%86%8C%EB%9D%BC%EC%9D%98-%EB%A7%88%EB%B2%95/id6473936311">MagicOfConch</a> • AI 회고 습관 형성 서비스**<br>
 Role: Back-End Developer<br>
 About Project: <a href="https://github.com/TeamMagicOfConch/sora.git"><strong>github</strong></a> **|** 디스콰이엇 트랜딩앱 1위<br>
-Blog: <a href="https://greensnapback0229.github.io/posts/OpenAI-%EC%97%B0%EB%8F%99-%EB%B9%84%EB%8F%99%EA%B8%B0-AI-%ED%86%A0%ED%81%B0-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EA%B0%9C%EC%84%A0/">LLM token streaming 성능 개선기</a>
+Blog: <a href="https://greensnapback0229.github.io/posts/OpenAI-%EC%97%B0%EB%8F%99-%EB%B9%84%EB%8F%99%EA%B8%B0-AI-%ED%86%A0%ED%81%B0-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EA%B0%9C%EC%84%A0/">LLM token streaming 성능 개선기</a> <a href="https://greensnapback0229.github.io/posts/(MagicOfConch)-FCM-%EC%95%8C%EB%A6%BC-%EB%B0%B0%EC%B9%98-100%EB%A7%8C%EA%B1%B4-%EC%B5%9C%EC%A0%81%ED%99%94%EA%B8%B0/"> FCM 알림 배치 100만건 1분안에 보내기 </a>
 <br clear="left">
 
 <!-- about comatching -->
@@ -72,7 +72,7 @@ Blog: <a href="https://greensnapback0229.github.io/posts/%EB%A6%AC%EB%B0%B8%EB%9
 - 네트워크 관리사 2급
 
 ### 📚 Studies
- - 🧑‍💻 [SSAFY_BE_DEEPDIVE_STUDY](https://github.com/SSAFY-CS-STUDY-15th/SeoSeungJun) (2025-02 ~ ing)
+ - 🧑‍💻 [SSAFY_BE_DEEPDIVE_STUDY](https://github.com/SSAFY-CS-STUDY-15th/SeoSeungJun) (2025-02 ~ ing) 
  - 🧑‍💻 [JACOS 알고리즘 스터디](https://github.com/KB-JACOS/SeoSeungjun) (2025.04 ~ ing) 
 
 ### 🤖 How I use AI
