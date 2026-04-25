@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=redis&logoColor=white">
 </p>
 
+![Notion](https://img.shields.io/badge/portfolio-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
+
 ### 📚 My Projects
 
 <!-- about magic of conch -->
