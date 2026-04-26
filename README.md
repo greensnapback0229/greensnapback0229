@@ -1,6 +1,7 @@
 - 🔭 저는 <u>컴퓨터공학</u> & <u>정보통신전자공학</u>을 전공하고 있습니다.
 - 🌱 `JAVA` 기반의 백엔드 기술을 **익히**고 **사용**하는 것을 즐깁니다.
 - 📫  smdmim@gmail.com
+- [![Notion](https://img.shields.io/badge/portfolio-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://ssj-leapday.notion.site/developer-getProperty-34ad8a098a4f804c83a6f6b633a2d614?source=copy_link)
 
 ### 🛠 Skill Stack
 <p>
@@ -12,8 +13,6 @@
 <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=redis&logoColor=white">
 </p>
-
-[![Notion](https://img.shields.io/badge/portfolio-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://ssj-leapday.notion.site/developer-getProperty-34ad8a098a4f804c83a6f6b633a2d614?source=copy_link)
 
 ### 📚 My Projects
 
